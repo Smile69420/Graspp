@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998122494940",
+    "project_id": "grasppapp",
+    "storage_bucket": "grasppapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998122494940:android:e21b8279bd9b447fc44d19",
+        "android_client_info": {
+          "package_name": "com.example.graspp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnflyaxivm-TfmmEQ3Aw4uIRGH-LRv1-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
